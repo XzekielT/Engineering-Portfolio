@@ -1,3 +1,5 @@
+<img src="Headshot.jpg" width="200" style="border-radius: 10px; margin-bottom: 20px;" alt="Zeke Trevino Headshot" />
+
 # 👋 Hi, I'm Zeke Trevino
 
 I'm a recent Electrical Systems Engineering graduate from **Arizona State University**, currently pursuing my **Master's in Electrical Engineering** at ASU with a focus on **Electronic and Mixed-Signal Circuit Design**. I'm passionate about **hardware systems, embedded design, failure analysis**, and creating projects that blend creativity with engineering.
