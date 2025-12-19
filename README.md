@@ -21,11 +21,11 @@ I'm a recent Electrical Systems Engineering graduate from **Arizona State Univer
 
 ## 📁 Projects
 
-### 🔌 Smart MIDI Controller
-- **Goal:** Design a MIDI controller with touchscreen UI and audio effects.
-- **Tools Used:** Teensy 4.0, Arduino IDE, Audio Shield, Fusion 360
-- **Key Result:** Achieved real-time MIDI output and integrated touchscreen interface.  
-[🔗 GitHub Repo](https://github.com/yourusername/smart-midi-controller)
+### 🔥 Temperature-Accelerated Aging Reliability Study
+- **Goal:** Quantify the impact of elevated temperature on electronic component lifetime and extract activation energy using Arrhenius-based reliability modeling.
+- **Tools Used:** Python (NumPy, SciPy, Pandas, Matplotlib), Weibull analysis, Arrhenius modeling, GitHub documentation
+- **Key Result:** Modeled temperature-dependent time-to-failure behavior, estimated activation energy, and linked statistical parameters to likely physical failure mechanisms.  
+[🔗 GitHub Repo](https://github.com/yourusername/temp-accelerated-aging)
 
 ### 🌡️ Weather Station
 - **Goal:** Monitor temperature, humidity, and pressure with cloud logging.
@@ -33,11 +33,6 @@ I'm a recent Electrical Systems Engineering graduate from **Arizona State Univer
 - **Key Result:** Developed full-stack system with live environmental data logging.  
 [🔗 GitHub Repo](https://github.com/yourusername/weather-station)
 
-### ⚡ Buck-Boost Converter
-- **Goal:** Build a custom buck-boost converter with feedback loop.
-- **Tools Used:** LTSpice, KiCAD, Oscilloscope, Custom PCB
-- **Key Result:** Regulated 5V output with 85%+ efficiency from 3.7–12V input.  
-[🔗 GitHub Repo](https://github.com/yourusername/buck-boost-converter)
 
 ---
 
