@@ -25,7 +25,7 @@ I'm a recent Electrical Systems Engineering graduate from **Arizona State Univer
 - **Goal:** Quantify the impact of elevated temperature on electronic component lifetime and extract activation energy using Arrhenius-based reliability modeling.
 - **Tools Used:** Python (NumPy, SciPy, Pandas, Matplotlib), Weibull analysis, Arrhenius modeling, GitHub documentation
 - **Key Result:** Modeled temperature-dependent time-to-failure behavior, estimated activation energy, and linked statistical parameters to likely physical failure mechanisms.  
-[🔗 GitHub Repo](https://github.com/yourusername/temp-accelerated-aging)
+[🔗 View Project](projects/temp_accelerated_aging/)
 
 ### 🌡️ Weather Station
 - **Goal:** Monitor temperature, humidity, and pressure with cloud logging.
